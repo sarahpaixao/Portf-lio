@@ -1,0 +1,21 @@
+
+h1{
+    font-size: 63px;
+    color: black;
+    padding: 15px;
+    color: white;
+    text-align: center;
+}
+
+h2{
+    font-size: 24px;
+    text-transform: uppercase;
+    color: black;
+    font-weight: 600;
+}
+
+.carousel-caption h5{
+    font-size: 80px;
+    color: #ffc107;
+    text-shadow: 2 px 2px 2px black;
+}
